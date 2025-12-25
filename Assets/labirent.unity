@@ -11778,15 +11778,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 668735768885291391, guid: 91ad7bf144749b04ab484a680630a040, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.2864718
+      value: -3.27
       objectReference: {fileID: 0}
     - target: {fileID: 668735768885291391, guid: 91ad7bf144749b04ab484a680630a040, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.3438542
+      value: 1.35
       objectReference: {fileID: 0}
     - target: {fileID: 668735768885291391, guid: 91ad7bf144749b04ab484a680630a040, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.81485
+      value: 6.82
       objectReference: {fileID: 0}
     - target: {fileID: 668735768885291391, guid: 91ad7bf144749b04ab484a680630a040, type: 3}
       propertyPath: m_LocalRotation.w
@@ -29743,7 +29743,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5763ee27ac4063840970f4ecb9dcb0df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 50
+  damage: 100
   vurusSesi: {fileID: 8300000, guid: 2b4feb321129346498a2eabd3094eabe, type: 3}
 --- !u!4 &1297751345 stripped
 Transform:
@@ -37386,22 +37386,22 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Yabanc\u0131,\n\nBu sat\u0131rlar\u0131 okuyorsan, Ordu\u2019nun f\u0131nd\u0131k
-    bah\xE7elerinden do\u011Fan o devasa \"Tarla Canavar\u0131\" B\xFCnyamin\u2019in
-    labirentindesin demektir. Korkma, ama \xE7ok dikkatli ol. Buras\u0131 sadece
-    ta\u015Ftan ve topraktan de\u011Fil, onun kurnaz zihninden in\u015Fa edildi.\n\nBuradan
-    \xE7\u0131kabilmen i\xE7in bilmen gerekenler \u015Funlar:\n\nF\u0131nd\u0131k
-    Kabuklar\u0131n\u0131 Takip Et: B\xFCnyamin ge\xE7ti\u011Fi yerlerde karakteristik
-    izler b\u0131rak\u0131r. Taze f\u0131nd\u0131k kokusu duyarsan, o \xE7ok yak\u0131ndad\u0131r;
-    aksi y\xF6ne ilerle.\n\nTopra\u011F\u0131n Sesini Dinle: E\u011Fer zemin titriyorsa,
-    B\xFCnyamin tarlay\u0131 s\xFCrmeye ba\u015Flam\u0131\u015F demektir. Hemen en
-    yak\u0131n oyu\u011Fa saklan ve nefesini tut.\n\nMerhameti Topraktad\u0131r:
-    O bir canavar olabilir ama \xF6z\xFCnde bir k\xF6yl\xFCd\xFCr. E\u011Fer seni
-    yakalarsa, ona memleketinden, ye\u015Filden ve d\xFCr\xFCst emekten bahset. Belki
-    o zaman i\xE7indeki \xF6fke diner.\n\nBu labirent sonsuz de\u011Fil, sadece \xF6yle
-    g\xF6r\xFCnmesini istiyor. Sa\u011F yan\u0131ndaki yosunlu duvarlar\u0131 takip
-    et, onlar seni Karadeniz r\xFCzgar\u0131n\u0131n esti\u011Fi \xE7\u0131k\u0131\u015Fa
-    g\xF6t\xFCrecek.\n\nPes etme. I\u015F\u0131k hala orada."
+  m_text: "\nTarih: Bursun yattigi gunden 20 gun sonra, sefalet cagi. Konum: B Blok,
+    2.Kat Oda 205 (Lanetli Bolge)\n\nBu notu bulan merhametli yabanci,\n\nBen tukendim.
+    Gun isigini en son ne zaman gordugumu, kantindeki tostcunun yuzunu ne zaman unuttugumu
+    hatirlamiyorum. Goblin Faruk, odanin ucte ikisini kirli coraplarindan ve bos
+    noodle kutularindan insa ettigi o igrenc surlarla kapatti. \"Burasi benim kralligim!\"
+    diye bagirip ranzanin ust katindan uzerime mandalina kabuklari firlatiyor.\n\nGece
+    oldugunda hiriltilari basliyor. Zannediyorum ki ruyasinda hala yemekhanedeki
+    fazladan ekmekleri istifliyor. Oksijenimiz azaliyor dostum... Faruk, kettle'da
+    yine ne oldugu belirsiz bir iksir (sanirim korili makarna ve kacak cay karisimi)
+    kaynatti ve koku yuzunden cigerlerim iflas etmek uzere.\n\nDun gece en degerli
+    hazinemi, son kalan temiz tuvalet kagidi rulomu caldi. Gozlerinin icine baktim,
+    bana sadece hirladi ve \"Bu artik vergi!\" dedi.\n\nEger bu notu okuyorsan ve
+    hala disaridaysan, memurlara haber verme; onlar Faruk'un magarasina girmekten
+    korkuyor. Sadece anneme onu sevdigimi ve depozitomu yakmamalarini soyle.\n\nFaruk
+    uyaniyor... Gozleri parliyor... Sanirim sarj aletimi isteyecek.\n\nElveda.\n\n\u2014
+    Ranzanin Altindaki Mazlum"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -37428,8 +37428,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 45
-  m_fontSizeBase: 45
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
