@@ -24,7 +24,12 @@ public class animationScript : MonoBehaviour
             animator.SetBool("Wait", true);
             animator.SetBool("Run", false);
         }
-        
+
+        if (Input.GetMouseButton(0))
+        {
+            animator.SetBool("Attack", true);
+        }
+        else { animator.SetBool("Attack", false); }
 
        
       
